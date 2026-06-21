@@ -1,15 +1,18 @@
 # Hey, I'm Tamara 👋
 
-☁️ Cloud Engineer in Training
+☁️ Cloud EngineerStudent
 
 ## Certifications
 - AWS Certified Cloud Practitioner
 
 ## Currently Learning
-- AWS Solutions Architect Associate
+- AWS Solutions Architect Associate (SAA-C03)
 - Git & GitHub
 - Linux
 - Terraform
+
+## Current Goal
+- Build hands-on AWS projects and document the journey.
 
 ## Projects
 - Cloud Portfolio
