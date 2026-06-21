@@ -1,6 +1,6 @@
 # Hey, I'm Tamara 👋
 
-☁️ Cloud EngineerStudent
+☁️ Cloud Engineeing rStudent
 
 ## Certifications
 - AWS Certified Cloud Practitioner
