@@ -1,4 +1,4 @@
-# Hey, I'm Tamara 👋
+# Hi there, I'm Tamara 👋
 
 ☁️ Air Force Veteran | Cloud Engineering Student
 
