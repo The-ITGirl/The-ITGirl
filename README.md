@@ -3,7 +3,9 @@
 ☁ Cloud Engineering Student 
 ️ 
 ## Certifications
-- AWS Certified Cloud Practitioner
+<a href="https://www.credly.com/badges/df96f59b-9be0-47e9-bd36-b6e341296a53/public_url">
+  <img src="./images/aws-ccp.png" width="120" alt="AWS Certified Cloud Practitioner">
+</a>
 
 ## Currently Learning
 - AWS Solutions Architect Associate (SAA-C03)
